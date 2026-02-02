@@ -1,0 +1,15 @@
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+.sanity/
+.vite/
+
+# Env files
+.env
+.env.*
